@@ -1,0 +1,6 @@
+- Author: Andrew Collier
+- Date: 1994
+- Named Concepts Within/About
+	- [[Critical Realism]]
+- Chapter 1: Why Realism? Why Transcendental?
+	-
