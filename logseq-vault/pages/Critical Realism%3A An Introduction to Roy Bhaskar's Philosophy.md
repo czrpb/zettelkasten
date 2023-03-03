@@ -1,7 +1,16 @@
+- Type:
 - Author: Andrew Collier
 - Date: 1994
 - Named Concepts Within/About
 	- {{embed ((640121d2-e2f6-4997-9841-30461b5491ae))}}
 	-
 - Chapter 1: Why Realism? Why Transcendental?
-	-
+	- [[Marxism and Materialism]]
+	- _The silly one is the idea that since words get meaning from their relations (of contrast) with other words, they can't refer to anything outside language at all. But of course they can refer to things outside language by virtue of their releations with other words, just as a symbol on a map refers to a landmark by virtue of its relation to other symbols._
+	- _... becuase it is not after all 'language' which makes distinctions, but uses of language, and we can, if we take the trouble, use language to make infinitely refined distinctions in context._
+	- _A theory is realist in a stronger sense than others if it makes the following claims for knowledge:_
+		- _1. Objectivity, in the sense that what is known would be real whether or not it were known: something may be real without appearing at all._
+		- _2. Fallibility: for insofar as claims are being made, not about some supposedly infallible or incorrigible data of appearance, but about something that goes beyond them, the claims are always open to refutation by further information._
+		- _3. Transphenomenality, going beyond appearances: knowledge may be not only of what appears, but of underlying structures, which endure longer than those appearances, and generate them or make them possible. We may have knowledge, not just of actions but of characters; not just of historical events but of social systems; not just of family likenesses but of the molecular structure of DNA._
+		- _4. Counter-phenomenality: knowledge of the deep structure of something may not just go beyond, and not just explain, but also contradict appearances. It is well known that Marx thought that it was precisely the capacity of science for counter-phenomenality which made it necessary: without the contradiction between appearance and reality, science would be redundant, and we could go by appearance._
+		-
